@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a AIML Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an AIML Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I have worked as a Software Developer Intern at DRDO.
 
 - :seedling: Exploring Technical Skills.
