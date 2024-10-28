@@ -11,7 +11,7 @@
 ```
 
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?Rani1303-username&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Rani1303&style=flat-square&color=blue" alt=""/>
     <img src="https://img.shields.io/github/followers/Rani1303?style=for-the-badge&color=magenta" alt="Followers"/>
     <img src="https://img.shields.io/github/stars/Rani1303?style=for-the-badge&color=yellow" alt="Stars"/>
   </div>
@@ -37,8 +37,8 @@
 |------------|---------------|----------|------------|
 | TensorFlow | Python | Git | Data Viz |
 | PyTorch | JavaScript | Docker | Generative AI |
-| Scikit-learn | AWS | ML Art |
-| OpenCV | Node.js | Kubernetes | Processing |
+| Scikit-learn | AWS | ML Art | Processing |
+| OpenCV | Node.js | Kubernetes |
 
 </div>
 
