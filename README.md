@@ -99,7 +99,13 @@ const skills = {
 </div>
 
 
+<<<<<<< HEAD
 <h2>🌊 Activity Wave</h2>
+=======
+### :woman_technologist: About Me :
+I am an AIML Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I have worked as a Software Developer Intern at DRDO.
+>>>>>>> 632070abb0674250d5f030bc3540e27a751b0e95
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rani1303/Rani1303/output/github-contribution-grid-snake-dark.svg" />
