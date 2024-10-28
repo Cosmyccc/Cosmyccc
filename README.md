@@ -1,136 +1,101 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-```python
-def welcome_message():
-    print("""
-    🚀 Welcome to my digital garden! 
-    Where AI meets creativity and code transforms into innovation.
-    """)
 
-if visitor == "you":
-    welcome_message()
-    stars += 1
+```ascii
+  ╔══════════════════════════════════════════╗
+  ║                                          ║
+  ║   🎯 Innovation Driven | 🤖 AI Explorer   ║
+  ║   🌟 Code Architect | 🚀 Tech Enthusiast  ║
+  ║                                          ║
+  ╚══════════════════════════════════════════╝
 ```
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?Rani1303-username&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Rani1303?style=for-the-badge&color=magenta" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/Rani1303?style=for-the-badge&color=yellow" alt="Stars"/>
+  </div>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/rani03/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="mailto:ranip130303@gmail.com">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?Rani1303&style=flat-square&color=blue" alt=""/>
+
+  <!-- Dynamic Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9645F4&center=true&vCenter=true&width=435&lines=AI+%26+ML+Developer;Deep+Learning+Enthusiast;Computer+Vision+Explorer;Innovator+%26+Problem+Solver" alt="Typing SVG" />
 </div>
 
-<!-- Custom SVG Banner -->
-<svg width="100%" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .header {
-      font: 600 38px 'Segoe UI', Ubuntu, Sans-Serif;
-      animation: fadeInAnimation 1.2s ease-in-out forwards;
-    }
-  </style>
-  <rect width="100%" height="150" fill="url(#grad1)"/>
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7A3AEA;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#3A89EA;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" text-anchor="middle" class="header" fill="white">
-    AI/ML Developer × Creative Coder × Innovation Explorer
-  </text>
-</svg>
-
-<h2>🧬 My Digital DNA</h2>
-
-```mermaid
-mindmap
-  root((Rani))
-    AI/ML
-      Deep Learning
-      Computer Vision
-      NLP
-    Software Development
-      Python
-      TensorFlow
-      PyTorch
-    Research
-      DRDO Experience
-      Innovation
-    Creative Coding
-      Generative Art
-      Data Visualization
-```
-
-<h2>🎯 Current Trajectory</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI Research 🔬</h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
-      </p>
-      <p align="center">Exploring the frontiers of machine learning and artificial intelligence</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Creative Projects 🎨</h3>
-      <p align="center">
-        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200">
-      </p>
-      <p align="center">Building innovative solutions that merge art and technology</p>
-    </td>
-  </tr>
-</table>
-
-<h2>💫 Skills Universe</h2>
-
-<div align="center">
-
-```javascript
-const skills = {
-  languages: ['Python', 'JavaScript', 'C++'],
-  ai_ml: ['TensorFlow', 'PyTorch', 'Scikit-learn'],
-  current_focus: 'Building AI-powered creative tools',
-  fun_fact: 'I love combining hiking with photography 📸'
-};
-```
-
-</div>
-
-
-<h2>🌊 Activity Wave</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rani1303/Rani1303/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<h2 align="center">⚡ Tech Stack Navigator ⚡</h2>
 
 <div align="center">
   
-```python
-# Life Philosophy
-while alive:
-    eat()
-    sleep()
-    code()
-    repeat()
+| 🧠 AI & ML | 💻 Development | 🔧 Tools | 🎨 Creative |
+|------------|---------------|----------|------------|
+| TensorFlow | Python | Git | Data Viz |
+| PyTorch | JavaScript | Docker | Generative AI |
+| Scikit-learn | AWS | ML Art |
+| OpenCV | Node.js | Kubernetes | Processing |
+
+</div>
+
+```console
+root@rani:~$ tree skills/
+skills/
+├── artificial_intelligence/
+│   ├── deep_learning
+│   ├── computer_vision
+│   └── nlp
+├── development/
+│   ├── backend
+│   └── research
+└── creativity/
+    └── innovation
 ```
 
-</div>
+<details>
+<summary>🎯 Current Focus Areas</summary>
+<br>
 
-<h2>📫 Let's Connect</h2>
+```mermaid
+graph TD
+    A[AI Research] -->|Deep Learning| B[Computer Vision]
+    A -->|Natural Language| C[NLP Projects]
+    B -->|Applications| D[Real-world Solutions]
+    C -->|Integration| D
+    D -->|Innovation| E[Creative Tech]
+```
 
+</details>
+
+<!-- Quick Stats -->
 <div align="center">
-  <p>Got an interesting project in mind? Let's make it happen!</p>
-  <code>rani.dev @ my-email.com</code>
+  <details>
+    <summary>📊 GitHub Stats</summary>
+    <div>
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rani1303&theme=radical" alt="Profile Details"/>
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rani1303&theme=radical&hide_border=true" alt="Streak Stats"/>
+    </div>
+  </details>
 </div>
 
-<!-- Hidden Easter Egg - Try highlighting the text below! -->
-<div align="center" style="color: #0000">
-  🎉 You found the easter egg! You're the kind of person who looks at the source - we should definitely connect! 
-</div>
+<!-- Activity Graph -->
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rani1303&theme=redical&hide_border=true" alt="Activity Graph"/>
+</details>
 
-<!-- Custom Footer -->
+<!-- Dev Quote -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A3AEA&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI;One+commit+at+a+time" alt="Typing SVG" />
+  <details>
+    <summary>💭 Dev Quote of the Day</summary>
+    <br/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  </details>
 </div>
