@@ -83,5 +83,4 @@
 </p>
 
 ## Holopin badges👀
-
-[![ @rani1303's Holopin badges](https://holopin.me/rani1303#)](https://holopin.io/@rani1303#badges)
+[![@rani1303's Holopin badges](https://holopin.me/rani1303)](https://holopin.io/@rani1303)
