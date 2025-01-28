@@ -52,7 +52,7 @@
     <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://milvus.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.thenewstack.io/media/2023/10/f6187d2d-milvus2-1024x658.jpg" alt="milvus" width="40" height="40"/>
+    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/milvus.svg" alt="milvus" width="40" height="40"/>
   </a>
   <a href="https://llamaindex.ai/" target="_blank" rel="noreferrer">
     <img src="https://brandfetch.com/llamaindex.ai?view=library&library=default&collection=logos&asset=idcsDhWsl4" alt="llamaindex" width="40" height="40"/>
@@ -67,7 +67,7 @@
     <img src="https://ollama.com/images/logo.svg" alt="ollama" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
