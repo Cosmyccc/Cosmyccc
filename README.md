@@ -1,4 +1,3 @@
-![Header](./headerX.png)
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Rani</h1>
 <h3 align="center" style="font-size: 46px;">"I'm a dedicated ML engineer focused on developing innovative AI solutions that solve real-world problems</h3>
 <img alt ="Coding" align="right" width="400" src="./coding.gif"/>
@@ -85,4 +84,4 @@
 
 ## Holopin badges👀
 
-[![ Rani's Holopin badges](https://holopin.me/rani1303)](https://www.holopin.io/@rani1303))
+[![ @rani1303's Holopin badges](https://holopin.me/rani1303)](https://holopin.io/@rani1303)
