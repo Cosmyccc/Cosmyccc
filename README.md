@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Rani</h1>
-<h3 align="center" style="font-size: 46px;">"I'm a dedicated ML engineer focused on developing innovative AI solutions that solve real-world problems</h3>
+<h3 align="center" style="font-size: 46px;">I'm a dedicated ML engineer focused on developing innovative AI solutions that solve real-world problems</h3>
 <img alt ="Coding" align="right" width="300" src="./coding.gif"/>
 <p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=Rani1303&label=Profile%20views&color=0e75b6&style=flat" alt="Rani1303" /> </p>
 
@@ -16,13 +16,28 @@
 - ⚡ Fun fact : **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
 
 <details open>
- <summary><b>GitHub Stats</b> </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell">
-</p>
+  <summary><b>GitHub Stats</b> </summary>
+  <br>
+  <p align="center">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=dark" 
+        media="(prefers-color-scheme: dark)">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=default" 
+        alt="GitHub Stats">
+    </picture>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=dark" 
+        media="(prefers-color-scheme: dark)">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=default" 
+        alt="Top Languages">
+    </picture>
+  </p>
 </details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
