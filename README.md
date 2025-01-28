@@ -58,13 +58,13 @@
     <img src="https://brandfetch.com/llamaindex.ai?view=library&library=default&collection=logos&asset=idcsDhWsl4" alt="llamaindex" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://brandfetch.com/langchain.com?view=library&library=default&collection=logos&asset=id12EQi2QW" alt="langchain" width="40" height="40"/>
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-    <img src="https://svgmix.com/item/4kEwe5/chroma" alt="chroma" width="40" height="40"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/chroma.svg" alt="chroma" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-    <img src="https://ollama.com/images/logo.svg" alt="ollama" width="40" height="40"/>
+    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/ollama.svg" alt="ollama" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="openai" width="40" height="40"/>
