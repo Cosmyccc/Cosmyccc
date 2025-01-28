@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Rani</h1>
 <h3 align="center" style="font-size: 46px;">"I'm a dedicated ML engineer focused on developing innovative AI solutions that solve real-world problems</h3>
-<img alt ="Coding" align="right" width="400" src="./coding.gif"/>
+<img alt ="Coding" align="right" width="300" src="./coding.gif"/>
 <p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=Rani1303&label=Profile%20views&color=0e75b6&style=flat" alt="Rani1303" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/rani03/" target="blank"><img src="https://img.shields.io/twitter/follow/Rani?logo=twitter&style=for-the-badge" alt="Rani" /></a> </p>
