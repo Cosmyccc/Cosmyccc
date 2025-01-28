@@ -64,7 +64,7 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/chroma.svg" alt="chroma" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/webp/ollama.webp" alt="ollama" width="40" height="40"/>
+    <img src="https://logowik.com/ollama-language-model-logo-vector-71308.html" alt="ollama" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="openai" width="40" height="40"/>
