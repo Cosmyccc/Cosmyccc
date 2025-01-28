@@ -58,7 +58,7 @@
     <img src="https://brandfetch.com/llamaindex.ai?view=library&library=default&collection=logos&asset=idcsDhWsl4" alt="llamaindex" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png?v=1957905584577481288" alt="langchain" width="40" height="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/f3064154-6d05-443f-8f9f-963804607a51)" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/chroma.svg" alt="chroma" width="40" height="40"/>
