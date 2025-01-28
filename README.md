@@ -19,22 +19,24 @@
   <summary><b>GitHub Stats</b> </summary>
   <br>
   <p align="center">
-    <img id="github-stats" alt="GitHub Stats" />
-    <img id="top-langs" alt="Top Languages" />
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=dark" 
+        media="(prefers-color-scheme: dark)">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=default" 
+        alt="GitHub Stats">
+    </picture>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=dark" 
+        media="(prefers-color-scheme: dark)">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=default" 
+        alt="Top Languages">
+    </picture>
   </p>
-
-  <script>
-    const isDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    document.getElementById("github-stats").src = isDarkMode
-      ? "https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=dark"
-      : "https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=default";
-
-    document.getElementById("top-langs").src = isDarkMode
-      ? "https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=dark"
-      : "https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=default";
-  </script>
 </details>
-
 
 
 
