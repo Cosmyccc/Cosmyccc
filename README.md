@@ -39,13 +39,13 @@
     <img src="https://cdn.thenewstack.io/media/2023/10/f6187d2d-milvus2-1024x658.jpg" alt="milvus" width="40" height="40"/>
   </a>
   <a href="https://llamaindex.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/logo.png" alt="llamaindex" width="40" height="40"/>
+    <img src="https://brandfetch.com/llamaindex.ai?view=library&library=default&collection=logos&asset=idcsDhWsl4" alt="llamaindex" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/logo.png" alt="langchain" width="40" height="40"/>
+    <img src="https://brandfetch.com/langchain.com?view=library&library=default&collection=logos&asset=id12EQi2QW" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/logo.png" alt="chroma" width="40" height="40"/>
+    <img src="https://svgmix.com/item/4kEwe5/chroma" alt="chroma" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/images/logo.svg" alt="ollama" width="40" height="40"/>
