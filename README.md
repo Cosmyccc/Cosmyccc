@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rani03/" target="blank"><img src="https://img.shields.io/twitter/follow/Rani?logo=twitter&style=for-the-badge" alt="Rani" /></a> </p>
 
-- 🔭 I'm currently working on building intelligent agents to streamline and automate everyday tasks**
+- 🔭 **I'm currently working on building intelligent agents to streamline and automate everyday tasks.**
 
-- 🌱 I'm currently exploring : Generative AI**
+- 🌱 **I'm currently exploring : Generative AI**
 
 - 💬 Ask me about : **ML, AI, LLMs, Agents**
 
