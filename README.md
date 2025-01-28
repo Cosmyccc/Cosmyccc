@@ -49,7 +49,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://milvus.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.thenewstack.io/media/2023/10/f6187d2d-milvus2-1024x658.jpg" alt="milvus" width="40" height="40"/>
