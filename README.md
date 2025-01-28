@@ -36,7 +36,7 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://milvus.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/milvus-io/milvus.io/main/assets/logo.svg" alt="milvus" width="40" height="40"/>
+    <img src="https://cdn.thenewstack.io/media/2023/10/f6187d2d-milvus2-1024x658.jpg" alt="milvus" width="40" height="40"/>
   </a>
   <a href="https://llamaindex.ai/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/logo.png" alt="llamaindex" width="40" height="40"/>
