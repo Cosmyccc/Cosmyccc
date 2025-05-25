@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Rani</h1>
 <h3 align="center" style="font-size: 46px;">I'm a dedicated ML engineer focused on developing innovative AI solutions that solve real-world problems</h3>
 <img alt ="Coding" align="right" width="300" src="./coding.gif"/>
-<p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=Rani1303&label=Profile%20views&color=0e75b6&style=flat" alt="Rani1303" /> </p>
+<p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=Cosmyccc&label=Profile%20views&color=0e75b6&style=flat" alt="Cosmyccc" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/rani03/" target="blank"><img src="https://img.shields.io/twitter/follow/Rani?logo=twitter&style=for-the-badge" alt="Rani" /></a> </p>
 
@@ -21,18 +21,18 @@
   <p align="center">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=dark" 
+        srcset="https://github-readme-stats.vercel.app/api?username=Cosmyccc&show_icons=true&line_height=40&theme=dark" 
         media="(prefers-color-scheme: dark)">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Rani1303&show_icons=true&line_height=40&theme=default" 
+        src="https://github-readme-stats.vercel.app/api?username=Cosmyccc&show_icons=true&line_height=40&theme=default" 
         alt="GitHub Stats">
     </picture>
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=dark" 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=dark" 
         media="(prefers-color-scheme: dark)">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani1303&hide=css,shell&theme=default" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=default" 
         alt="Top Languages">
     </picture>
   </p>
@@ -99,4 +99,4 @@
 </p>
 
 ## Holopin badges👀
-[![An image of @rani1303's Holopin badges](https://holopin.me/rani1303)](https://holopin.io/@rani1303)
+[![An image of @cosmyccc's Holopin badges](https://holopin.me/cosmyccc)](https://holopin.io/@cosmyccc)
