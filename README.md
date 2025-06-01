@@ -99,4 +99,4 @@
 </p>
 
 ## Holopin badges👀
-[![An image of @cosmyccc's Holopin badges](https://holopin.me/cosmyccc)](https://holopin.io/@cosmyccc)
+[![An image of @rani1303's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rani1303)](https://holopin.io/@rani1303)
