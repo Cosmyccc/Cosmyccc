@@ -46,56 +46,8 @@
 <a href="https://www.linkedin.com/in/rani03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-6aa13b264" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://milvus.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/milvus.svg" alt="milvus" width="40" height="40"/>
-  </a>
-  <a href="https://llamaindex.ai/" target="_blank" rel="noreferrer">
-    <img src="https://brandfetch.com/llamaindex.ai?view=library&library=default&collection=logos&asset=idcsDhWsl4" alt="llamaindex" width="40" height="40"/>
-  </a>
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/f3064154-6d05-443f-8f9f-963804607a51)" alt="langchain" width="40" height="40"/>
-  </a>
-  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/chroma.svg" alt="chroma" width="40" height="40"/>
-  </a>
-  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/ollama-language-model-logo-vector-71308.html" alt="ollama" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="openai" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<p align="center"> Stuff I know... Maybe... Just maybe... </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,elasticsearch,fastapi,flask,java,nextjs,react,openai,mongodb,mysql,postgres,prisma,c,cpp,py,docker,kubernetes,git,postman,linux,streamlit,github&perline=8&theme=dark"/>
 </p>
 
 ## Holopin badges👀
