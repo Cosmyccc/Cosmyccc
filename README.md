@@ -47,7 +47,7 @@
 </p>
 
 <p align="center"> Stuff I know... Maybe... Just maybe... </p>
-<p align="center"><img src="https://skillicons.dev/icons?i=aws,elasticsearch,fastapi,flask,java,nextjs,react,openai,mongodb,mysql,postgres,prisma,c,cpp,py,docker,kubernetes,git,postman,linux,streamlit,github&perline=8&theme=dark"/>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,elasticsearch,fastapi,flask,java,nextjs,react,mongodb,mysql,postgres,prisma,c,cpp,py,docker,kubernetes,git,postman,linux,github&perline=8&theme=dark"/>
 </p>
 
 ## Holopin badges👀
