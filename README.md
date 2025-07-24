@@ -19,26 +19,29 @@
 </p>
 
 
-<b>GitHub Stats</b>
-  <br>
-  <p align="center">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=Cosmyccc&show_icons=true&line_height=40&theme=dark" 
-        media="(prefers-color-scheme: dark)">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Cosmyccc&show_icons=true&line_height=40&theme=default" 
-        alt="GitHub Stats">
-    </picture>
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=dark" 
-        media="(prefers-color-scheme: dark)">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=dark" 
-        alt="Top Languages">
-    </picture>
-  </p>
+<br><br>
+<b>📊 GitHub Stats</b>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Cosmyccc&show_icons=true&line_height=40&theme=dark" 
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Cosmyccc&show_icons=true&line_height=40&theme=default" 
+      alt="GitHub Stats">
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=dark" 
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=default" 
+      alt="Top Languages">
+  </picture>
+</div>
+
 
 
 
