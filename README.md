@@ -1,22 +1,25 @@
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Rani</h1>
-<h3 align="center" style="font-size: 46px;">I'm a dedicated ML engineer focused on developing innovative AI solutions that solve real-world problems</h3>
-<img alt ="Coding" align="right" width="300" src="./coding.gif"/>
-<p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=Cosmyccc&label=Profile%20views&color=0e75b6&style=flat" alt="Cosmyccc" /> </p>
+<h3 align="center" style="font-size: 46px;">
+👩‍💻 I'm a software engineer building AI agents and backend systems that scale, adapt, and just keep working even under pressure 😅💻🔥.
+</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rani03/" target="blank"><img src="https://img.shields.io/twitter/follow/Rani?logo=twitter&style=for-the-badge" alt="Rani" /></a> </p>
+<img alt="Coding" align="right" width="300" src="./coding.gif" />
 
-- 🔭 **I'm currently working on building intelligent agents to streamline and automate everyday tasks.**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Cosmyccc&label=Profile%20views&color=0e75b6&style=flat" alt="Cosmyccc" />
+</p>
 
-- 🌱 **I'm currently exploring : Generative AI**
+<p align="left">⚡ Things I'm up to... or striving to master every day 🚀</p>
+<p align="left">
+ 🧠 Currently trying to make life easier by building <b>intelligent agents</b> that automate boring stuff.<br>
+ 🤖 Deep diving into the magical world of <b>Generative AI</b> — it's wild in here!<br>
+ 💬 Want to talk code, coffee, or chaos? Hit me up about <b>anything software</b>.<br>
+ 📫 Your message might just land in my inbox: <b>ranip130303@gmail.com</b><br>
+ 🤯 Fun fact: I <b>thrive in focused, fast-paced, impact-driven zones</b> (and I kinda love deadlines… maybe).
+</p>
 
-- 💬 Ask me about : **ML, AI, LLMs, Agents**
 
-- 📫 How to reach me : **ranip130303@gmail.com**
-
-- ⚡ Fun fact : **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
-
-<details open>
-  <summary><b>GitHub Stats</b> </summary>
+<b>GitHub Stats</b>
   <br>
   <p align="center">
     <picture>
@@ -32,23 +35,26 @@
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=dark" 
         media="(prefers-color-scheme: dark)">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=default" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmyccc&hide=css,shell&theme=dark" 
         alt="Top Languages">
     </picture>
   </p>
-</details>
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Rani_2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuj846kk" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rani03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-6aa13b264" height="30" width="40" /></a>
-</p>
 
-<p align="center"> Stuff I know... Maybe... Just maybe... </p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://x.com/Rani_2201" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</p> 
+
+
+<h3 align="center"> Stuff I know... Maybe... Just maybe... </h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,elasticsearch,fastapi,flask,java,nextjs,react,mongodb,mysql,postgres,prisma,c,cpp,py,docker,kubernetes,git,postman,linux,github&perline=8&theme=dark"/>
 </p>
 
-## Holopin badges👀
-[![An image of @rani1303's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rani1303)](https://holopin.io/@rani1303)
